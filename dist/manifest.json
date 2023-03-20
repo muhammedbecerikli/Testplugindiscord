@@ -3,8 +3,7 @@
     "type": "plugin",
     "about": {
       "name": {
-        "default": "Read All Messages",
-        "tr": "Tum Mesajlari Oku"
+        "default": "Read All Messages"
       },
       "authors": [
         {
